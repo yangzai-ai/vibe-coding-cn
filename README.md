@@ -10,7 +10,7 @@
 
 **作者**
 
-[Nicolas Zullo, https://x.com/NicolasZu](https://x.com/NicolasZu)
+[Nicolas Zullo](https://x.com/NicolasZu)
 
 [tukuaiai](https://github.com/tukuaiai), [https://x.com/123olp](https://x.com/123olp)
 
@@ -281,6 +281,7 @@
 [⬆ 回到顶部](#vibe-coding-终极指南-v12)
 
 </div>
+
 
 
 
