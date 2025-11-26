@@ -10,8 +10,9 @@
 
 **作者**
 
-**[Nicolas Zullo](https://github.com/EnzeD), [https://x.com/NicolasZu](https://x.com/NicolasZu)**
-**[tukuaiai](https://github.com/tukuaiai), [https://x.com/123olp](https://x.com/123olp)**
+[Nicolas Zullo](https://github.com/EnzeD), [https://x.com/NicolasZu](https://x.com/NicolasZu)
+
+[tukuaiai](https://github.com/tukuaiai), [https://x.com/123olp](https://x.com/123olp)
 
 **创建日期：** 2025年3月12日
 **最后更新日期：** 2025年11月26日
