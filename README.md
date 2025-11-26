@@ -8,7 +8,8 @@
 
 **一个通过与 AI 结对编程，将想法变为现实的终极工作流程。**
 
-**作者：** [Nicolas Zullo, https://x.com/NicolasZu](https://x.com/NicolasZu);[tukuaiai](https://github.com/tukuaiai), [https://x.com/123olp](https://x.com/123olp)
+**作者：** [Nicolas Zullo, https://x.com/NicolasZu](https://x.com/NicolasZu)
+[tukuaiai](https://github.com/tukuaiai), [https://x.com/123olp](https://x.com/123olp)
 
 **创建日期：** 2025年3月12日
 **最后更新日期：** 2025年10月6日
@@ -277,4 +278,5 @@
 [⬆ 回到顶部](#vibe-coding-终极指南-v12)
 
 </div>
+
 
