@@ -8,7 +8,7 @@
 
 **一个通过与 AI 结对编程，将想法变为现实的终极工作流程。**
 
-**作者：**
+**作者**
 
 [Nicolas Zullo, https://x.com/NicolasZu](https://x.com/NicolasZu)
 
@@ -281,6 +281,7 @@
 [⬆ 回到顶部](#vibe-coding-终极指南-v12)
 
 </div>
+
 
 
 
