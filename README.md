@@ -60,7 +60,7 @@
 ## 🚀 入门指南
 要开始 Vibe Coding，你只需要以下两种工具之一：
 - **Claude Sonnet 4.5**，在 Claude Code 中使用
-- **gpt-5-codex (high)**，在 Codex CLI 中使用
+- **gpt-5.1-codex (high)**，在 Codex CLI 中使用
 
 本指南同时适用于 CLI 终端版本和 VSCode 扩展版本（Codex 和 Claude Code 都有扩展，且界面更新）。
 
@@ -281,6 +281,7 @@
 [⬆ 回到顶部](#vibe-coding-终极指南-v12)
 
 </div>
+
 
 
 
