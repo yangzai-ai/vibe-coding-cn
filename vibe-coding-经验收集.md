@@ -36,8 +36,7 @@ https://x.com/dogejustdoit/status/1996464777313542204?s=46
 
 https://x.com/yanboofficial/status/1996188311451480538?s=46
 
-prompt:
-```
+```prompt
 请你根据我的要求，用 Three.js 创建一个实时交互的3D粒子系统，如果你第一次就做得好，我将会打赏你100美元的小费;我的要求是：
 ```
 
