@@ -45,3 +45,11 @@ https://x.com/yanboofficial/status/1996188311451480538?s=46
 ---
 
 https://x.com/zen_of_nemesis/status/1996591768641458368?s=46
+
+---
+
+https://github.com/tesserato/CodeWeaver
+
+CodeWeaver 将你的代码库编织成一个可导航的 Markdown 文档
+
+它能把你整个项目，不管有多少屎山代码，直接“编织”成一个条理清晰的 Markdown 文件，结构是树形的，一目了然。所有代码都给你塞进代码块里，极大地简化了代码库的共享、文档化以及与 AI/ML 工具集成
