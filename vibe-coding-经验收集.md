@@ -41,3 +41,7 @@ https://x.com/yanboofficial/status/1996188311451480538?s=46
 ```
 
 点评：这个提示词可能会提升生成的效果
+
+---
+
+https://x.com/zen_of_nemesis/status/1996591768641458368?s=46
