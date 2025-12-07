@@ -14,6 +14,8 @@
 
 [tukuaiai](https://github.com/tukuaiai), [https://x.com/123olp](https://x.com/123olp)
 
+[羊仔](https://github.com/yangzai-ai), [https://x.com/yangzaiai666](https://x.com/yangzaiai666)
+
 **创建日期：** 2025年3月12日
 **最后更新日期：** 2025年11月26日
 
@@ -43,7 +45,6 @@
 
 - [**系统提示词构建原则.md**](./系统提示词构建原则.md) - 深入探讨构建高效、可靠AI系统提示词的核心原则、沟通互动、任务执行、编码规范与安全防护等全方位指南。
 - [**开发经验.md**](./开发经验.md) - 包含变量命名、文件结构、编码规范、系统架构原则、微服务、Redis和消息队列等开发经验与项目规范的详细整理。
-- [**vibe-coding-经验收集.md**](./vibe-coding-经验收集.md) - AI开发最佳实践与系统提示词优化技巧的经验收集。
 - [**通用项目架构模板.md**](./通用项目架构模板.md) - 提供了多种项目类型的标准目录结构、核心设计原则、最佳实践建议及技术选型参考。
 - [**system_prompts/**](./system_prompts/) - AI开发系统提示词集合，包含多版本开发规范与思维框架（1-8号配置）。
   - `1/CLAUDE.md` - 开发者行为准则与工程规范
@@ -260,27 +261,6 @@
 
 本项目采用 [MIT](LICENSE) 许可证。
 
----
-
-<div align="center">
-
-**如果这个项目对您有帮助，请不要吝啬您的 Star ⭐！**
-
-## Star History
-
-<a href="https://www.star-history.com/#tukuaiai/vibe-coding-cn&type=date&legend=top-left">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=tukuaiai/vibe-coding-cn&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=tukuaiai/vibe-coding-cn&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=tukuaiai/vibe-coding-cn&type=date&legend=top-left" />
- </picture>
-</a>
-
-**Made with ❤️ and a lot of ☕ by [Nicolas Zullo](https://x.com/NicolasZu), [tukuaiai](https://github.com/tukuaiai) and [123olp](https://x.com/123olp)**
-
-[⬆ 回到顶部](#vibe-coding-终极指南-v12)
-
-</div>
 
 
 
